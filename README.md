@@ -19,6 +19,8 @@ Each persona has a tailored scoring system, so a vacuum might score high for a P
 
 Before scoring, I analyzed the robot vacuum market using a heatmap to identify feature correlations. Redder squares indicate stronger relationships. As expected, price increased with features like self-emptying and suction power, offering a clear view of trade-offs.
 
+![image](https://github.com/user-attachments/assets/bc69cab2-c6d5-49f2-af51-42667a265fdc)
+
 ## Discovering Market "Tribes"
 
 After scoring each vacuum for every persona, I used clustering to find natural market segments. The data revealed four distinct groups:
@@ -28,11 +30,17 @@ After scoring each vacuum for every persona, I used clustering to find natural m
 - **Niche Specialists**: Mid-priced, excelling in one area (e.g., mopping or smarts).
 - **Premium Powerhouses**: High price with top scores across all categories.
 
+![image](https://github.com/user-attachments/assets/82ac2f5d-5ad3-427e-9cbe-68768ce8a170)
+
 This uncovered the market’s hidden structure beyond individual products.
+
+![image](https://github.com/user-attachments/assets/03bfa7c0-831c-4232-bd79-88288e9ba995)
 
 ## Interactive Dashboard: A Tool for All
 
 I turned my findings into an interactive dashboard. With a dropdown, you can select your persona (Pet Owner, Tech Enthusiast, Budget Buyer, or All-Rounder) to see the top 15 vacuums tailored to your needs.
+
+![image](https://github.com/user-attachments/assets/fa7592e3-4ea5-4a36-8078-74fcc95b0537)
 
 ## Key Takeaways
 

@@ -50,4 +50,4 @@ This project began with the frustration of tech shopping. Using data, I cut thro
 - [Kaggle Dataset](https://www.kaggle.com/datasets/mustafaemregk/robot-vacuum-cleaner-dataset)
 
 ## Notebook
-- [Kaggle Notebook](https://www.kaggle.com/code/vikramlingam/robot-vacuum-value-score)..
+- [Kaggle Notebook](https://www.kaggle.com/code/vikramlingam/robot-vacuum-value-score).

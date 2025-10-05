@@ -13,7 +13,7 @@ Rather than comparing raw specs, I developed the "Vacuum Value Score"—like a c
 3. **Budget Buyer**: Seeks the best performance (suction, battery) for the lowest price.
 4. **All-Rounder**: Wants a balanced vacuum with decent suction, battery, and maybe mopping, without overspending.
 
-Each persona has a tailored scoring system, so a vacuum might score high for a Pet Owner but low for a Tech Enthusiast—that’s by design.
+Each persona has a tailored scoring system, so a vacuum might score high for a Pet Owner but low for a Tech Enthusiast—that’s by design..
 
 ## Exploring the Market Landscape
 
